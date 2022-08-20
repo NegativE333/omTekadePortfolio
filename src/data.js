@@ -13,6 +13,12 @@ export const featuredPortfolio = [
     },
     {
         id:3,
+        title: "Cloud",
+        img: "img/cloud.png",
+        link: "https://obscure-headland-21394.herokuapp.com/"
+    },
+    {
+        id:3,
         title: "To Do List",
         img: "img/toDOList.png",
         link: "https://mysterious-ravine-47630.herokuapp.com/"

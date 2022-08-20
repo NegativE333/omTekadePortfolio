@@ -109,7 +109,7 @@
             span{
                 color: black;
                 @include mobile{
-                    font-size: 10px;
+                    font-size: 10rcd portpx;
                 }
             }
             }
